@@ -111,3 +111,7 @@ input[type="submit"]:hover{
 .signup_link a:hover{
   text-decoration: underline;
 }
+.center {
+  width: 25%;
+   margin-top :-108px;
+}
